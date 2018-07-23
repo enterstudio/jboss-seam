@@ -54,7 +54,7 @@
             <phase>clean</phase>
             <configuration>
               <target>
-                <delete file="${project.basedir}/../build/build.properties" />
+                <delete file="${project.basedir}/../build/build.properties"/>
               </target>
             </configuration>
             <goals>
@@ -196,7 +196,7 @@
       <dependency>
         <groupId>org.apache.ant</groupId>
         <artifactId>ant-nodeps</artifactId>
-        <version>1.7.0</version>
+        <version>1.7.1</version>
         <type>jar</type>
         <scope>runtime</scope>
       </dependency>
