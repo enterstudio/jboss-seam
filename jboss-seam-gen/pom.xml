@@ -54,7 +54,7 @@
             <phase>clean</phase>
             <configuration>
               <target>
-                <delete file="${project.basedir}/../build/build.properties" />
+                <delete file="${project.basedir}/../build/build.properties"/>
               </target>
             </configuration>
             <goals>
@@ -67,7 +67,7 @@
    </build>
    
    <properties>
-     <hibernateversion>4.0.0.Final</hibernateversion>
+     <hibernateversion>4.1.1.Final</hibernateversion>
    </properties>
        
    <dependencies>
@@ -76,7 +76,7 @@
       <dependency>
          <groupId>org.hibernate</groupId>
          <artifactId>hibernate-tools</artifactId>
-         <version>4.0.0-CR1</version>
+         <version>5.2.0.Final</version>
          <scope>runtime</scope>
       </dependency>
       
