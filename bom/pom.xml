@@ -52,7 +52,7 @@
         <version.infinispan>5.2.7.Final</version.infinispan>
 
         <!-- Test frameworks -->
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.org.testng>5.14.10</version.org.testng>
         
         <!-- Versions of Arquillian and Shrinkwrap -->
