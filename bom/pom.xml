@@ -32,7 +32,7 @@
 	<properties>
 		<!-- Version string properties for integrations-->
         <version.seam>2.3.2-SNAPSHOT</version.seam>
-		<version.wicket>1.4.14</version.wicket>
+		<version.wicket>1.4.23</version.wicket>
 		<version.drools>5.3.3.Final</version.drools>
 		<version.resteasy>2.3.4.Final</version.resteasy>
 		<version.spring>3.1.4.RELEASE</version.spring>
