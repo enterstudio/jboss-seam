@@ -34,12 +34,12 @@
         <version.seam>2.3.2-SNAPSHOT</version.seam>
 		<version.wicket>1.4.14</version.wicket>
 		<version.drools>5.3.3.Final</version.drools>
-		<version.resteasy>2.3.4.Final</version.resteasy>
+		<version.resteasy>3.11.0.Final</version.resteasy>
 		<version.spring>3.1.4.RELEASE</version.spring>
         <version.richfaces>4.3.7.Final</version.richfaces>
 
         <!-- Version of Hibernate projects -->
-        <version.org.hibernate>4.2.0.Final</version.org.hibernate>
+        <version.org.hibernate>5.4.24.Final</version.org.hibernate>
         <version.org.hibernate.validator>4.3.1.Final</version.org.hibernate.validator>
         <version.org.hibernate.search>4.4.0.Final</version.org.hibernate.search>
         <version.org.hibernate.javax.persistence>1.0.1.Final</version.org.hibernate.javax.persistence>
