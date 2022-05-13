@@ -35,7 +35,7 @@
 		<version.wicket>1.4.14</version.wicket>
 		<version.drools>5.3.3.Final</version.drools>
 		<version.resteasy>2.3.4.Final</version.resteasy>
-		<version.spring>3.1.4.RELEASE</version.spring>
+		<version.spring>5.2.22.RELEASE</version.spring>
         <version.richfaces>4.3.7.Final</version.richfaces>
 
         <!-- Version of Hibernate projects -->
