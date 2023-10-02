@@ -39,9 +39,9 @@
         <version.richfaces>4.3.7.Final</version.richfaces>
 
         <!-- Version of Hibernate projects -->
-        <version.org.hibernate>4.2.0.Final</version.org.hibernate>
+        <version.org.hibernate>5.1.17.Final</version.org.hibernate>
         <version.org.hibernate.validator>4.3.1.Final</version.org.hibernate.validator>
-        <version.org.hibernate.search>4.4.0.Final</version.org.hibernate.search>
+        <version.org.hibernate.search>5.10.12.Final</version.org.hibernate.search>
         <version.org.hibernate.javax.persistence>1.0.1.Final</version.org.hibernate.javax.persistence>
         <version.org.hibernate-jpamodelgen>1.2.0.Final</version.org.hibernate-jpamodelgen>
         
@@ -53,7 +53,7 @@
 
         <!-- Test frameworks -->
         <version.junit>4.11</version.junit>
-        <version.org.testng>5.14.10</version.org.testng>
+        <version.org.testng>6.10</version.org.testng>
         
         <!-- Versions of Arquillian and Shrinkwrap -->
         <version.org.jboss.arquillian>1.1.4.Final</version.org.jboss.arquillian>
@@ -1009,7 +1009,7 @@
 			<dependency>
 				<groupId>org.tuckey</groupId>
 				<artifactId>urlrewritefilter</artifactId>
-				<version>3.0.4</version>
+				<version>4.0.2</version>
 				<exclusions>
 					<exclusion>
 						<groupId>junit</groupId>
