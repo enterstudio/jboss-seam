@@ -1009,7 +1009,7 @@
 			<dependency>
 				<groupId>org.tuckey</groupId>
 				<artifactId>urlrewritefilter</artifactId>
-				<version>3.0.4</version>
+				<version>4.0.2</version>
 				<exclusions>
 					<exclusion>
 						<groupId>junit</groupId>
