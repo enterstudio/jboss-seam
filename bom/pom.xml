@@ -41,7 +41,7 @@
         <!-- Version of Hibernate projects -->
         <version.org.hibernate>4.2.0.Final</version.org.hibernate>
         <version.org.hibernate.validator>4.3.1.Final</version.org.hibernate.validator>
-        <version.org.hibernate.search>4.4.0.Final</version.org.hibernate.search>
+        <version.org.hibernate.search>5.10.12.Final</version.org.hibernate.search>
         <version.org.hibernate.javax.persistence>1.0.1.Final</version.org.hibernate.javax.persistence>
         <version.org.hibernate-jpamodelgen>1.2.0.Final</version.org.hibernate-jpamodelgen>
         
@@ -49,7 +49,7 @@
 		<version.jbossas7>7.2.0.Final</version.jbossas7>		
         <version.org.jboss.spec.jboss.javaee.6.0>3.0.2.Final</version.org.jboss.spec.jboss.javaee.6.0>
 
-        <version.infinispan>5.2.7.Final</version.infinispan>
+        <version.infinispan>9.4.1.Final</version.infinispan>
 
         <!-- Test frameworks -->
         <version.junit>4.11</version.junit>
