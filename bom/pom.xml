@@ -49,7 +49,7 @@
 		<version.jbossas7>7.2.0.Final</version.jbossas7>		
         <version.org.jboss.spec.jboss.javaee.6.0>3.0.2.Final</version.org.jboss.spec.jboss.javaee.6.0>
 
-        <version.infinispan>5.2.7.Final</version.infinispan>
+        <version.infinispan>14.0.34.Final</version.infinispan>
 
         <!-- Test frameworks -->
         <version.junit>4.11</version.junit>
